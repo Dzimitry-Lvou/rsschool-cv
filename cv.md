@@ -1,6 +1,6 @@
 1. **Dzimitry Lvou**
 
-1. **Email:** _lvoudzimitry@gmail.com_
+1. **Telegram:** _https://t.me/d_lvou_
 
 1. **About**
 
