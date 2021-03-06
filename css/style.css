@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+h1 {
+  font-size: 50px;
+  padding: 30px 60px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+.header-container {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d6d6d6;
+}
+
+.header {
+  width: 80%;
+}
+
+.row {
+  display: flex;
+}
+
+.avatar {
+  height: 200px;
+}
+
+.contacts {
+  align-self: flex-end;
+  margin-left: auto;
+}
+
+.contacts ul {
+  display: flex;
+}
+
+.contact-icon {
+  padding-left: 7px;
+  padding-bottom: 5px;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ededed;
+}
+
+.main {
+  height: auto;
+  width: 80%;
+}
+
+.about-section {
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.skills-section {
+  height: 400px;
+}
+
+.skills {
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.skills li {
+  height: 25px;
+  width: 75px;
+  background-color: #d6d6d6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.education-section {
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.portfolio-section {
+  height: 300px;
+  display: flex;
+  align-items: center;
+}
+
+.code-wrapper {
+  width: 100%;
+  background-color: white;
+  margin: 15px;
+}
+
+.footer-container {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d6d6d6;
+}
+
+.footer {
+  width: 80%;
+  display: flex;
+}
+
+.rs-logo {
+  height: 100px;
+}
