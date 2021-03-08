@@ -101,15 +101,10 @@ section {
 
 .education-section {
   height: 100px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
 }
 
 .portfolio-section {
-  height: 300px;
-  display: flex;
-  align-items: center;
+  height: 200px;
 }
 
 .code-wrapper {
